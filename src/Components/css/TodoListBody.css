@@ -1,0 +1,7 @@
+.body{
+    display: flex;
+    align-items: center;
+    width: 300px;
+    justify-content: space-between;
+    row-gap: 100px;
+}
